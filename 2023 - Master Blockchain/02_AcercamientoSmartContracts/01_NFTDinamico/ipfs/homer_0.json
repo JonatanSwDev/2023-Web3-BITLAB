@@ -1,0 +1,15 @@
+{
+    "name": "Homer contento",
+    "description" : "Homer un dia cualquiera",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmNRE5BkfdJCuY3SGgSMQDtiyMWsgESUVsRNNmLdLuqUaM",
+    "attributes": [
+        {
+            "trait-type": "Humor-de-homer",
+            "value": "Contento"
+        },
+        {
+            "trait-type": "Nivel",
+            "value": "0"
+        }
+    ]
+}

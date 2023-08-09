@@ -1,0 +1,15 @@
+{
+    "name": "Homer mosqueado",
+    "description" : "Homer se empieza a mosquear",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmPBL9uGa37gxMo7yQZ4rm53gCUZCMV63JqCdCTyoNcS43",
+    "attributes": [
+        {
+            "trait-type": "Humor-de-homer",
+            "value": "Mosqueado"
+        },
+        {
+            "trait-type": "Nivel",
+            "value": "1"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "depositERC20Event",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "withdrawERC20Event",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "depositERC20",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "wAmount",
+						"type": "uint256"
+					}
+				],
+				"name": "withdrwERC20",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/interfaces/ITokenERC20.sol": "ITokenERC20"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/interfaces/ITokenERC20.sol": {
+			"keccak256": "0x4f15da118ad445db9e6dc7c6a34a1b05856a634d9ba696b65ab3efd21be79dfe",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4b132bd343a90529ed6183105e8a8d729cc17c39d91c1aefd2e0ffcbfe51d538",
+				"dweb:/ipfs/QmTMHkcSbDZEkfJjVzQkd6d5g4kRaDvr4gBo61dyP71iEw"
+			]
+		}
+	},
+	"version": 1
+}

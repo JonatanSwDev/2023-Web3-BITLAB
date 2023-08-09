@@ -1,0 +1,13 @@
+Curva Eliptica: y^2 = x^3 + 3x + 5
+Punto P: (4,9)
+-------------------Verificar punto P-------------------
+Ecuacion: 9^2 = 4^3 + 3x + 5
+Elevamos potencias: 81 = 64 + 12 + 5
+Resolvemos ecuacion: 81 = 81 --> Punto P si pertenece a la Curva Eliptica
+-------------------Calcular punto Q-------------------
+Calcular el valor de la pendiente de la recta asociada a P ('S'): (3 * 4^2 + 3) * (2 * 9)^-1 mod 19 --> 6
+Ecuacion para calcular xQ: (S^j - 2 * xP) % Z
+Calcular el valor de xQ: (6^2 - 2 * 4) % 19 --> 9
+Ecuacion para calcular yQ: (-yP + S * (xP -Xq)) % Z
+Calcular el valor de yQ: (-9 + 6 * (4 - 9)) % 19 --> -1
+El punto Q = 2P es (9, -1)

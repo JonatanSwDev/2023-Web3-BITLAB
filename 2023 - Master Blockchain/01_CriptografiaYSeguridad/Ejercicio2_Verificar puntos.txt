@@ -1,0 +1,11 @@
+Curva Eliptica: y^2 = x^3 + 0x + 17
+
+Punto P: (-1,4)
+Ecuacion: 4^2 = -1^3 + 0x + 17
+Elevamos potencias: 16 = -1 + 0 + 17
+Resolvemos ecuacion: 16 = 16 --> Punto P si pertenece a la Curva Eliptica
+
+Punto Q: (2,5)
+Ecuacion: 5^2 = 2^3 + 0x + 17
+Elevamos potencias: 25 = 8 + 0 + 17
+Resolvemos ecuacion: 25 = 25 --> Punto P si pertenece a la Curva Eliptica

@@ -1,0 +1,8 @@
+Curva Eliptica: y^2 = x^3 + 3x + 5
+Discriminante: D = 4 * A^3 + 27 * B^2
+----------------------------------------
+Discriminante: D = 4 * 3^3 + 27 * 5^2
+Se elevan las potencias: D = 4 * 27 + 27 * 25
+Se realizan las multiplicaciones: D = 108 + 675
+Se realiza la suma: D = 783
+Se aplica el modulo del cuerpo X19: D = 4

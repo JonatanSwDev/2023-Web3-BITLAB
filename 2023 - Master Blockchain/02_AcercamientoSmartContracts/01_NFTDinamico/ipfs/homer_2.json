@@ -1,0 +1,15 @@
+{
+    "name": "Homer cabreado",
+    "description" : "Homer totalmente cabreado",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmQLLs99e5KHFPWhJEVQVwPkDMQwj3YHtvzCBX5KqNk3c4",
+    "attributes": [
+        {
+            "trait-type": "Humor-de-homer",
+            "value": "Cabreado"
+        },
+        {
+            "trait-type": "Nivel",
+            "value": "2"
+        }
+    ]
+}

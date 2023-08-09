@@ -1,0 +1,1 @@
+Se han omitido prácticas presentadas dada su irrelevancia y/o modelo de entrega.
